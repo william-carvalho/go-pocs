@@ -1,0 +1,14 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile internal/asan=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b023\_pkg_.a
+packagefile internal/bytealg=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b010\_pkg_.a
+packagefile internal/itoa=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b049\_pkg_.a
+packagefile internal/msan=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b024\_pkg_.a
+packagefile internal/oserror=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b050\_pkg_.a
+packagefile internal/race=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b025\_pkg_.a
+packagefile internal/syscall/windows/sysdll=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b047\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b034\_pkg_.a
+packagefile unicode/utf16=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b051\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

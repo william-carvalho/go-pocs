@@ -1,0 +1,19 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile internal/bytealg=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b010\_pkg_.a
+packagefile internal/filepathlite=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b062\_pkg_.a
+packagefile internal/godebug=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b044\_pkg_.a
+packagefile internal/itoa=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b049\_pkg_.a
+packagefile internal/poll=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b067\_pkg_.a
+packagefile internal/stringslite=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b029\_pkg_.a
+packagefile internal/syscall/execenv=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b068\_pkg_.a
+packagefile internal/syscall/windows=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b063\_pkg_.a
+packagefile internal/testlog=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b069\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile io/fs=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b065\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a
+packagefile slices=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b060\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b034\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b048\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b043\_pkg_.a

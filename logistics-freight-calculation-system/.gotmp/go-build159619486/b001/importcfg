@@ -1,0 +1,11 @@
+# import config
+packagefile github.com/example/logistics-freight-calculation-system/pricing=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b002\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b003\_pkg_.a
+packagefile testing=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b041\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/calculator=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b076\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/config=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b077\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/pricing=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b002\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/pricing/boat=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b078\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/pricing/rail=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b079\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/pricing/truck=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b080\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/builder=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b081\_pkg_.a

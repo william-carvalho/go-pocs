@@ -1,0 +1,6 @@
+# import config
+packagefile crypto/internal/fips140/check=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b099\_pkg_.a
+packagefile crypto/internal/fips140/subtle=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b106\_pkg_.a
+packagefile crypto/internal/fips140deps/byteorder=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b102\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile math/bits=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b037\_pkg_.a

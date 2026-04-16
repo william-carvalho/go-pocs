@@ -1,0 +1,7 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile internal/bytealg=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b011\_pkg_.a
+packagefile internal/stringslite=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b030\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b059\_pkg_.a
+packagefile math/bits=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b038\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b040\_pkg_.a

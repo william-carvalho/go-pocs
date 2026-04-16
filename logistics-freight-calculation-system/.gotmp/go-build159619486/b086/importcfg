@@ -1,0 +1,27 @@
+# import config
+packagefile bytes=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b042\_pkg_.a
+packagefile context=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b043\_pkg_.a
+packagefile crypto/sha256=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b087\_pkg_.a
+packagefile encoding/binary=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b114\_pkg_.a
+packagefile encoding/json=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b115\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b055\_pkg_.a
+packagefile go/ast=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b117\_pkg_.a
+packagefile go/parser=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b121\_pkg_.a
+packagefile go/token=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b119\_pkg_.a
+packagefile internal/godebug=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b045\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b032\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b059\_pkg_.a
+packagefile math/bits=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b038\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b062\_pkg_.a
+packagefile os/exec=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b123\_pkg_.a
+packagefile path/filepath=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b073\_pkg_.a
+packagefile reflect=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b058\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b010\_pkg_.a
+packagefile strconv=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b060\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b003\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b033\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b035\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b049\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b044\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b040\_pkg_.a

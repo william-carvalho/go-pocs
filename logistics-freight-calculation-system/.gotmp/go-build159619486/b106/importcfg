@@ -1,0 +1,14 @@
+# import config
+packagefile bytes=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b042\_pkg_.a
+packagefile crypto/internal/entropy=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b107\_pkg_.a
+packagefile crypto/internal/fips140=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b093\_pkg_.a
+packagefile crypto/internal/fips140/aes=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b092\_pkg_.a
+packagefile crypto/internal/fips140/check=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b096\_pkg_.a
+packagefile crypto/internal/fips140/subtle=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b103\_pkg_.a
+packagefile crypto/internal/fips140deps/byteorder=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b099\_pkg_.a
+packagefile crypto/internal/randutil=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b109\_pkg_.a
+packagefile crypto/internal/sysrand=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b108\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b032\_pkg_.a
+packagefile math/bits=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b038\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b033\_pkg_.a

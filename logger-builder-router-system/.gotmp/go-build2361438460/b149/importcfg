@@ -1,0 +1,12 @@
+# import config
+importmap golang.org/x/crypto/chacha20poly1305=vendor/golang.org/x/crypto/chacha20poly1305
+packagefile crypto=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b093\_pkg_.a
+packagefile crypto/aes=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b119\_pkg_.a
+packagefile crypto/cipher=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b094\_pkg_.a
+packagefile crypto/ecdh=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b121\_pkg_.a
+packagefile crypto/hkdf=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b143\_pkg_.a
+packagefile crypto/rand=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b091\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile vendor/golang.org/x/crypto/chacha20poly1305=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b150\_pkg_.a
+packagefile internal/byteorder=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b012\_pkg_.a
+packagefile math/bits=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b037\_pkg_.a

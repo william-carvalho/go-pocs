@@ -1,0 +1,14 @@
+# import config
+packagefile bytes=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b041\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile internal/saferio=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b138\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b058\_pkg_.a
+packagefile math/big=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b117\_pkg_.a
+packagefile reflect=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b057\_pkg_.a
+packagefile slices=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b060\_pkg_.a
+packagefile strconv=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b059\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b043\_pkg_.a
+packagefile unicode/utf16=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b051\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

@@ -1,0 +1,4 @@
+# import config
+packagefile crypto/internal/fips140/alias=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b098\_pkg_.a
+packagefile crypto/internal/fips140deps/byteorder=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b102\_pkg_.a
+packagefile math/bits=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b037\_pkg_.a

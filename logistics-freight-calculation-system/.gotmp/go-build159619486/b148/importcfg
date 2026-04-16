@@ -1,0 +1,4 @@
+# import config
+packagefile github.com/example/logistics-freight-calculation-system/builder=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b081\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/calculator=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b076\_pkg_.a
+packagefile testing=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b041\_pkg_.a

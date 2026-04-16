@@ -1,0 +1,50 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Logs
+*.log
+logs/
+
+# Go build outputs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.cover
+coverage.out
+cover.out
+coverage/
+bin/
+dist/
+build/
+
+# Go workspace caches and vendored tool state
+.gocache/
+.gomodcache/
+pkg/
+
+# Temporary and scratch directories
+tmp/
+temp/
+.tmp/
+
+# Generated local test / cache directories seen in this repo
+test-results/

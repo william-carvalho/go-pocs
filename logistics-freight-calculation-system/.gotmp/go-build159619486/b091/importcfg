@@ -1,0 +1,10 @@
+# import config
+packagefile bytes=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b042\_pkg_.a
+packagefile crypto/internal/fips140/aes=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b092\_pkg_.a
+packagefile crypto/internal/fips140/aes/gcm=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b105\_pkg_.a
+packagefile crypto/internal/fips140/alias=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b095\_pkg_.a
+packagefile crypto/internal/fips140only=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b111\_pkg_.a
+packagefile crypto/subtle=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b112\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile internal/byteorder=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b013\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b032\_pkg_.a

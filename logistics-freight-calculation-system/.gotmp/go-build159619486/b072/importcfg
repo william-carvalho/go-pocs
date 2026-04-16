@@ -1,0 +1,5 @@
+# import config
+packagefile internal/godebug=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b045\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b059\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b033\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b035\_pkg_.a

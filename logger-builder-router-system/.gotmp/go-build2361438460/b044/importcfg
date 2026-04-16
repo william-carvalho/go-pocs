@@ -1,0 +1,5 @@
+# import config
+packagefile internal/bisect=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b045\_pkg_.a
+packagefile internal/godebugs=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b015\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b034\_pkg_.a

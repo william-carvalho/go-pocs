@@ -1,0 +1,5 @@
+# import config
+packagefile crypto=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b093\_pkg_.a
+packagefile crypto/cipher=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b094\_pkg_.a
+packagefile crypto/internal/boring/sig=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b116\_pkg_.a
+packagefile hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b089\_pkg_.a

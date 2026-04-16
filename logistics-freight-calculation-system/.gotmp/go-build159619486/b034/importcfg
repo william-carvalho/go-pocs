@@ -1,0 +1,5 @@
+# import config
+packagefile internal/abi=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b006\_pkg_.a
+packagefile internal/goarch=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b007\_pkg_.a
+packagefile internal/race=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b026\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b035\_pkg_.a

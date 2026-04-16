@@ -1,0 +1,7 @@
+# import config
+packagefile crypto/internal/boring=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b092\_pkg_.a
+packagefile crypto/internal/fips140/hmac=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b100\_pkg_.a
+packagefile crypto/internal/fips140hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b133\_pkg_.a
+packagefile crypto/internal/fips140only=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b114\_pkg_.a
+packagefile crypto/subtle=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b115\_pkg_.a
+packagefile hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b089\_pkg_.a

@@ -1,0 +1,24 @@
+# import config
+importmap golang.org/x/net/dns/dnsmessage=vendor/golang.org/x/net/dns/dnsmessage
+packagefile cmp=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b056\_pkg_.a
+packagefile context=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b042\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile vendor/golang.org/x/net/dns/dnsmessage=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b170\_pkg_.a
+packagefile internal/bytealg=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b010\_pkg_.a
+packagefile internal/godebug=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b044\_pkg_.a
+packagefile internal/itoa=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b049\_pkg_.a
+packagefile internal/nettrace=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b171\_pkg_.a
+packagefile internal/poll=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b067\_pkg_.a
+packagefile internal/singleflight=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b172\_pkg_.a
+packagefile internal/stringslite=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b029\_pkg_.a
+packagefile internal/syscall/windows=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b063\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile io/fs=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b065\_pkg_.a
+packagefile net/netip=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b173\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b061\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a
+packagefile slices=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b060\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b034\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b048\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b043\_pkg_.a

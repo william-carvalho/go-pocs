@@ -1,0 +1,7 @@
+# import config
+importmap golang.org/x/text/transform=vendor/golang.org/x/text/transform
+importmap golang.org/x/text/unicode/bidi=vendor/golang.org/x/text/unicode/bidi
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile vendor/golang.org/x/text/transform=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b179\_pkg_.a
+packagefile vendor/golang.org/x/text/unicode/bidi=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b180\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

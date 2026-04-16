@@ -1,0 +1,12 @@
+# import config
+importmap golang.org/x/crypto/chacha20=vendor/golang.org/x/crypto/chacha20
+importmap golang.org/x/crypto/internal/alias=vendor/golang.org/x/crypto/internal/alias
+importmap golang.org/x/crypto/internal/poly1305=vendor/golang.org/x/crypto/internal/poly1305
+importmap golang.org/x/sys/cpu=vendor/golang.org/x/sys/cpu
+packagefile crypto/cipher=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b094\_pkg_.a
+packagefile encoding/binary=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b087\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile vendor/golang.org/x/crypto/chacha20=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b151\_pkg_.a
+packagefile vendor/golang.org/x/crypto/internal/alias=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b152\_pkg_.a
+packagefile vendor/golang.org/x/crypto/internal/poly1305=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b153\_pkg_.a
+packagefile vendor/golang.org/x/sys/cpu=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b154\_pkg_.a

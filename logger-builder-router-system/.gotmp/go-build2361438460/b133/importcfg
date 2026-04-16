@@ -1,0 +1,4 @@
+# import config
+packagefile crypto/internal/fips140/sha3=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b105\_pkg_.a
+packagefile crypto/sha3=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b134\_pkg_.a
+packagefile hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b089\_pkg_.a

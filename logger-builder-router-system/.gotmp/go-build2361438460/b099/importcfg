@@ -1,0 +1,7 @@
+# import config
+packagefile crypto/internal/fips140=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b096\_pkg_.a
+packagefile crypto/internal/fips140/hmac=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b100\_pkg_.a
+packagefile crypto/internal/fips140/sha256=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b101\_pkg_.a
+packagefile crypto/internal/fips140deps/byteorder=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b102\_pkg_.a
+packagefile crypto/internal/fips140deps/godebug=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b097\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a

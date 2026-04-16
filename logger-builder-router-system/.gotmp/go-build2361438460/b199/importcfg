@@ -1,0 +1,14 @@
+# import config
+packagefile bufio=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b084\_pkg_.a
+packagefile context=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b042\_pkg_.a
+packagefile internal/fuzz=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b200\_pkg_.a
+packagefile internal/testlog=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b069\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b061\_pkg_.a
+packagefile os/signal=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b207\_pkg_.a
+packagefile reflect=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b057\_pkg_.a
+packagefile regexp=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b208\_pkg_.a
+packagefile runtime/pprof=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b210\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b043\_pkg_.a

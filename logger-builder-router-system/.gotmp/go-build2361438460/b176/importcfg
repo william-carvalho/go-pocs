@@ -1,0 +1,7 @@
+# import config
+importmap golang.org/x/net/idna=vendor/golang.org/x/net/idna
+packagefile vendor/golang.org/x/net/idna=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b177\_pkg_.a
+packagefile net=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b169\_pkg_.a
+packagefile net/textproto=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b184\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

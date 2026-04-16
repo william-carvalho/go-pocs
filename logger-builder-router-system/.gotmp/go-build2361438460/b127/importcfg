@@ -1,0 +1,6 @@
+# import config
+packagefile crypto/internal/fips140/nistec=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b123\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile math/big=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b117\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a

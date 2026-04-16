@@ -1,0 +1,22 @@
+# import config
+importmap golang.org/x/crypto/cryptobyte=vendor/golang.org/x/crypto/cryptobyte
+importmap golang.org/x/crypto/cryptobyte/asn1=vendor/golang.org/x/crypto/cryptobyte/asn1
+packagefile crypto=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b093\_pkg_.a
+packagefile crypto/ecdh=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b121\_pkg_.a
+packagefile crypto/elliptic=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b127\_pkg_.a
+packagefile crypto/internal/boring=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b092\_pkg_.a
+packagefile crypto/internal/boring/bbig=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b128\_pkg_.a
+packagefile crypto/internal/fips140/ecdsa=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b129\_pkg_.a
+packagefile crypto/internal/fips140/nistec=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b123\_pkg_.a
+packagefile crypto/internal/fips140cache=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b131\_pkg_.a
+packagefile crypto/internal/fips140hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b133\_pkg_.a
+packagefile crypto/internal/fips140only=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b114\_pkg_.a
+packagefile crypto/internal/randutil=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b112\_pkg_.a
+packagefile crypto/sha512=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b135\_pkg_.a
+packagefile crypto/subtle=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b115\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile vendor/golang.org/x/crypto/cryptobyte=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b136\_pkg_.a
+packagefile vendor/golang.org/x/crypto/cryptobyte/asn1=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b139\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile math/big=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b117\_pkg_.a
+packagefile math/rand/v2=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b113\_pkg_.a

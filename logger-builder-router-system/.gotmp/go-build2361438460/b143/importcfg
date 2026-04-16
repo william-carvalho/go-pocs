@@ -1,0 +1,6 @@
+# import config
+packagefile crypto/internal/fips140/hkdf=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b144\_pkg_.a
+packagefile crypto/internal/fips140hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b133\_pkg_.a
+packagefile crypto/internal/fips140only=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b114\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b089\_pkg_.a

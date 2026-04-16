@@ -1,0 +1,8 @@
+# import config
+packagefile internal/abi=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b005\_pkg_.a
+packagefile internal/asan=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b023\_pkg_.a
+packagefile internal/goarch=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b006\_pkg_.a
+packagefile internal/msan=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b024\_pkg_.a
+packagefile internal/race=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b025\_pkg_.a
+packagefile internal/runtime/math=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b026\_pkg_.a
+packagefile internal/runtime/sys=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b027\_pkg_.a

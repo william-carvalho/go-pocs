@@ -1,0 +1,10 @@
+# import config
+packagefile crypto/internal/boring=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b092\_pkg_.a
+packagefile crypto/internal/fips140=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b096\_pkg_.a
+packagefile crypto/internal/fips140/drbg=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b109\_pkg_.a
+packagefile crypto/internal/fips140only=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b114\_pkg_.a
+packagefile crypto/internal/randutil=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b112\_pkg_.a
+packagefile crypto/internal/sysrand=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b111\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile math/big=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b117\_pkg_.a

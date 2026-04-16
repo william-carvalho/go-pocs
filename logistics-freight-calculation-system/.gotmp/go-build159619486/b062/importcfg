@@ -1,0 +1,19 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile internal/bytealg=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b011\_pkg_.a
+packagefile internal/filepathlite=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b063\_pkg_.a
+packagefile internal/godebug=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b045\_pkg_.a
+packagefile internal/itoa=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b050\_pkg_.a
+packagefile internal/poll=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b068\_pkg_.a
+packagefile internal/stringslite=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b030\_pkg_.a
+packagefile internal/syscall/execenv=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b069\_pkg_.a
+packagefile internal/syscall/windows=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b064\_pkg_.a
+packagefile internal/testlog=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b070\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b032\_pkg_.a
+packagefile io/fs=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b066\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b010\_pkg_.a
+packagefile slices=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b061\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b033\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b035\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b049\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b044\_pkg_.a

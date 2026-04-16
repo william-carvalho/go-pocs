@@ -1,0 +1,5 @@
+# import config
+packagefile crypto=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b088\_pkg_.a
+packagefile crypto/internal/boring=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b090\_pkg_.a
+packagefile crypto/internal/fips140/sha256=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b098\_pkg_.a
+packagefile hash=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b089\_pkg_.a

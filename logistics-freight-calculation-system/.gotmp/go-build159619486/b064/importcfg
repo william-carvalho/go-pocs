@@ -1,0 +1,7 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile internal/syscall/windows/sysdll=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b048\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b010\_pkg_.a
+packagefile structs=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b065\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b033\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b049\_pkg_.a

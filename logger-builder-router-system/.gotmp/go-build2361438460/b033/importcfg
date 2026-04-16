@@ -1,0 +1,5 @@
+# import config
+packagefile internal/abi=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b005\_pkg_.a
+packagefile internal/goarch=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b006\_pkg_.a
+packagefile internal/race=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b025\_pkg_.a
+packagefile sync/atomic=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b034\_pkg_.a

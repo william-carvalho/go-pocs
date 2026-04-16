@@ -1,0 +1,11 @@
+# import config
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a
+packagefile testing=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b040\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/logger=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b075\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/provider=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b077\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/provider/console=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b078\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/provider/elk=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b082\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/provider/file=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b194\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/router=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b195\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/builder=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b196\_pkg_.a

@@ -1,0 +1,17 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile internal/abi=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b005\_pkg_.a
+packagefile internal/bytealg=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b010\_pkg_.a
+packagefile internal/goarch=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b006\_pkg_.a
+packagefile internal/itoa=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b049\_pkg_.a
+packagefile internal/race=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b025\_pkg_.a
+packagefile internal/runtime/maps=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b022\_pkg_.a
+packagefile internal/runtime/sys=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b027\_pkg_.a
+packagefile internal/unsafeheader=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b008\_pkg_.a
+packagefile iter=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b036\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b058\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a
+packagefile strconv=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b059\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a
+packagefile unicode=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b038\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

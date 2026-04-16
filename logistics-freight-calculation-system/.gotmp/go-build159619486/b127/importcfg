@@ -1,0 +1,24 @@
+# import config
+packagefile bufio=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b085\_pkg_.a
+packagefile bytes=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b042\_pkg_.a
+packagefile cmp=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b057\_pkg_.a
+packagefile compress/gzip=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b128\_pkg_.a
+packagefile context=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b043\_pkg_.a
+packagefile encoding/binary=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b114\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b055\_pkg_.a
+packagefile internal/abi=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b006\_pkg_.a
+packagefile internal/profilerecord=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b019\_pkg_.a
+packagefile internal/syscall/windows=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b064\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b032\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b059\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b062\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b010\_pkg_.a
+packagefile slices=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b061\_pkg_.a
+packagefile sort=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b120\_pkg_.a
+packagefile strconv=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b060\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b003\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b033\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b049\_pkg_.a
+packagefile text/tabwriter=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b131\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b044\_pkg_.a

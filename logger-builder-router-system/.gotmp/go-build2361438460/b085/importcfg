@@ -1,0 +1,9 @@
+# import config
+packagefile bufio=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b084\_pkg_.a
+packagefile compress/flate=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b086\_pkg_.a
+packagefile encoding/binary=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b087\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile hash/crc32=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b088\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b043\_pkg_.a

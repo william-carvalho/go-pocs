@@ -1,0 +1,13 @@
+# import config
+packagefile bytes=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b041\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile go/ast=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b201\_pkg_.a
+packagefile go/build/constraint=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b205\_pkg_.a
+packagefile go/scanner=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b202\_pkg_.a
+packagefile go/token=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b203\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile io/fs=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b065\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b061\_pkg_.a
+packagefile path/filepath=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b072\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a

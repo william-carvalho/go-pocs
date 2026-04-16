@@ -1,0 +1,11 @@
+# import config
+importmap golang.org/x/text/secure/bidirule=vendor/golang.org/x/text/secure/bidirule
+importmap golang.org/x/text/unicode/bidi=vendor/golang.org/x/text/unicode/bidi
+importmap golang.org/x/text/unicode/norm=vendor/golang.org/x/text/unicode/norm
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile vendor/golang.org/x/text/secure/bidirule=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b178\_pkg_.a
+packagefile vendor/golang.org/x/text/unicode/bidi=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b180\_pkg_.a
+packagefile vendor/golang.org/x/text/unicode/norm=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b183\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b058\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

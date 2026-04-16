@@ -1,0 +1,14 @@
+# import config
+packagefile bufio=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b085\_pkg_.a
+packagefile context=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b043\_pkg_.a
+packagefile internal/fuzz=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b086\_pkg_.a
+packagefile internal/testlog=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b070\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b032\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b062\_pkg_.a
+packagefile os/signal=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b124\_pkg_.a
+packagefile reflect=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b058\_pkg_.a
+packagefile regexp=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b125\_pkg_.a
+packagefile runtime/pprof=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b127\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b003\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b033\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b044\_pkg_.a

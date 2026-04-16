@@ -1,0 +1,15 @@
+# import config
+importmap golang.org/x/net/http/httpguts=vendor/golang.org/x/net/http/httpguts
+importmap golang.org/x/net/http2/hpack=vendor/golang.org/x/net/http2/hpack
+packagefile context=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b042\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile vendor/golang.org/x/net/http/httpguts=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b176\_pkg_.a
+packagefile vendor/golang.org/x/net/http2/hpack=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b186\_pkg_.a
+packagefile net/http/httptrace=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b190\_pkg_.a
+packagefile net/textproto=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b184\_pkg_.a
+packagefile net/url=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b175\_pkg_.a
+packagefile sort=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b081\_pkg_.a
+packagefile strconv=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b059\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a

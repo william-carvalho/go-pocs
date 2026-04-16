@@ -1,0 +1,8 @@
+# import config
+importmap golang.org/x/crypto/internal/alias=vendor/golang.org/x/crypto/internal/alias
+packagefile crypto/cipher=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b094\_pkg_.a
+packagefile encoding/binary=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b087\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile vendor/golang.org/x/crypto/internal/alias=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b152\_pkg_.a
+packagefile math/bits=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b037\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a

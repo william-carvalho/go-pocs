@@ -1,0 +1,8 @@
+# import config
+packagefile crypto/internal/fips140/drbg=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b109\_pkg_.a
+packagefile crypto/internal/fips140/sha256=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b101\_pkg_.a
+packagefile crypto/internal/fips140/sha3=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b105\_pkg_.a
+packagefile crypto/internal/fips140/sha512=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b107\_pkg_.a
+packagefile hash=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b089\_pkg_.a
+packagefile internal/godebug=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b044\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a

@@ -1,0 +1,9 @@
+# import config
+importmap golang.org/x/crypto/cryptobyte/asn1=vendor/golang.org/x/crypto/cryptobyte/asn1
+packagefile encoding/asn1=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b137\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile vendor/golang.org/x/crypto/cryptobyte/asn1=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b139\_pkg_.a
+packagefile math/big=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b117\_pkg_.a
+packagefile reflect=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b057\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b043\_pkg_.a

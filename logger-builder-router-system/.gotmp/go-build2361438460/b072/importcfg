@@ -1,0 +1,11 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile internal/bytealg=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b010\_pkg_.a
+packagefile internal/filepathlite=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b062\_pkg_.a
+packagefile io/fs=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b065\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b061\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a
+packagefile slices=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b060\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b048\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

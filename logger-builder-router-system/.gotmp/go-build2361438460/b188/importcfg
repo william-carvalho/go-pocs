@@ -1,0 +1,18 @@
+# import config
+packagefile bufio=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b084\_pkg_.a
+packagefile bytes=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b041\_pkg_.a
+packagefile crypto/rand=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b091\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile internal/godebug=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b044\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b031\_pkg_.a
+packagefile maps=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b168\_pkg_.a
+packagefile math=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b058\_pkg_.a
+packagefile mime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b187\_pkg_.a
+packagefile mime/quotedprintable=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b189\_pkg_.a
+packagefile net/textproto=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b184\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b061\_pkg_.a
+packagefile path/filepath=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b072\_pkg_.a
+packagefile slices=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b060\_pkg_.a
+packagefile strconv=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b059\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b002\_pkg_.a

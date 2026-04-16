@@ -1,0 +1,6 @@
+# import config
+packagefile strings=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b003\_pkg_.a
+packagefile testing=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b041\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b055\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b003\_pkg_.a
+packagefile github.com/example/logistics-freight-calculation-system/calculator=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b076\_pkg_.a

@@ -1,0 +1,7 @@
+# import config
+packagefile bytes=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b041\_pkg_.a
+packagefile container/list=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b090\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b054\_pkg_.a
+packagefile log=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b181\_pkg_.a
+packagefile sort=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b081\_pkg_.a
+packagefile unicode/utf8=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b039\_pkg_.a

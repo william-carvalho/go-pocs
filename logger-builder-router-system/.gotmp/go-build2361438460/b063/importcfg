@@ -1,0 +1,7 @@
+# import config
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile internal/syscall/windows/sysdll=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b047\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a
+packagefile structs=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b064\_pkg_.a
+packagefile sync=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b032\_pkg_.a
+packagefile syscall=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b048\_pkg_.a

@@ -1,0 +1,7 @@
+# import config
+packagefile os=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b061\_pkg_.a
+packagefile reflect=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b057\_pkg_.a
+packagefile testing=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b040\_pkg_.a
+packagefile testing/internal/testdeps=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b199\_pkg_.a
+packagefile runtime=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b009\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/tests=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b231\_pkg_.a

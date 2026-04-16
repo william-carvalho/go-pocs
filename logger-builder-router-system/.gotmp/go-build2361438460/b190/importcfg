@@ -1,0 +1,8 @@
+# import config
+packagefile context=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b042\_pkg_.a
+packagefile crypto/tls=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b118\_pkg_.a
+packagefile internal/nettrace=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b171\_pkg_.a
+packagefile net=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b169\_pkg_.a
+packagefile net/textproto=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b184\_pkg_.a
+packagefile reflect=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b057\_pkg_.a
+packagefile time=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b043\_pkg_.a

@@ -1,0 +1,10 @@
+# import config
+packagefile context=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b042\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/logger=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b075\_pkg_.a
+packagefile testing=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b040\_pkg_.a
+packagefile context=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b042\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b003\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/logger=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b075\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/provider=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b077\_pkg_.a
+packagefile github.com/example/logger-builder-router-system/router=C:\workspace\go-pocs\logger-builder-router-system\.gotmp\go-build2361438460\b195\_pkg_.a

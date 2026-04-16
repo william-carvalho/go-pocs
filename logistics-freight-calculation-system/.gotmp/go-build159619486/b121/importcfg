@@ -1,0 +1,13 @@
+# import config
+packagefile bytes=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b042\_pkg_.a
+packagefile errors=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b004\_pkg_.a
+packagefile fmt=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b055\_pkg_.a
+packagefile go/ast=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b117\_pkg_.a
+packagefile go/build/constraint=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b122\_pkg_.a
+packagefile go/scanner=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b118\_pkg_.a
+packagefile go/token=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b119\_pkg_.a
+packagefile io=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b032\_pkg_.a
+packagefile io/fs=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b066\_pkg_.a
+packagefile os=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b062\_pkg_.a
+packagefile path/filepath=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b073\_pkg_.a
+packagefile strings=C:\workspace\go-pocs\logistics-freight-calculation-system\.gotmp\go-build159619486\b003\_pkg_.a
